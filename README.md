@@ -7,6 +7,6 @@ KabaadKart is a startup which tries to solve the problem of waste management and
 
 ### Git Link : CLICK ME
 
-### Deployment : [HERE](kabaadkart.herokuapp.com)
+### Deployment : [HERE](https://kabaadkart.herokuapp.com)
 
 ### Author : Ansh Chaturmohta
